@@ -1,12 +1,11 @@
-<img src="https://user-images.githubusercontent.com/90390639/160348369-e11fad86-fe9c-44bc-8139-ac1df38e0545.png" width="500"/>
 
-¡Hola! Mi nombre es Constanza. Gracias por tomarse el tiempo para ver mi perfil de GitHub 😄
+<h1> ¡Hello there! <img src="https://user-images.githubusercontent.com/90390639/160401796-1eb51cd8-157d-43ca-b5a1-295b9d7b0eec.png" width="50"/>   </h1>   
 
-
-
- **A little more about me...**
+<h3>Mi nombre es Constanza. Gracias por tomarse el tiempo para ver mi perfil de GitHub 😄 </h3>
  
-- 💻 Actualmente estoy cursando el ultimo tramo del bootcamp -henry
+<h2>A little more about me...</h2>
+
+- 👩‍💻 Actualmente estoy cursando el ultimo tramo del bootcamp -henry
 
 - 🌱 Actualmente estoy aprendiendo typescript
 
@@ -26,12 +25,14 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - ⚡ Fun fact: ...
 
+
+ 
+
+
+<img src="https://user-images.githubusercontent.com/90390639/160348369-e11fad86-fe9c-44bc-8139-ac1df38e0545.png" width="500"/>
 -->
 
-
-
-
-👨‍💻 🛠 **Languages & Tools**:
+<h2>🛠 Languages & Tools:</h2>
 
 ![image](https://user-images.githubusercontent.com/90390639/160342967-b3a0cf26-538d-46eb-82b8-0dcde396bec6.png)
 ![image](https://user-images.githubusercontent.com/90390639/160343052-08b8b60a-e58a-4123-8b7f-a9872a3b29f1.png)
@@ -41,7 +42,7 @@ Here are some ideas to get you started:
 ![image](https://user-images.githubusercontent.com/90390639/160343138-8a659e9b-7d5c-4369-89cd-f234b8b97d5a.png)
 
 
-📧 **Like to meet me?**
+<h2>📧 Like to meet me?</h2>
 
 - 💻 [LinkedIn](https://www.linkedin.com/in/constanza-mara%C3%B1on/)
 
