@@ -33,6 +33,9 @@ Here are some ideas to get you started:
 
  <h2 align="center">   </br> Gracias por tomarse el tiempo para ver mi perfil de GitHub 😄    </h2>
  
+
+Beginning my career as a Full Stack Developer looking for new experiences and a lot of knowledge around the world.
+
 -->
 
 
