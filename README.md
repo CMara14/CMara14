@@ -1,7 +1,6 @@
+<img src="https://camo.githubusercontent.com/b40aa6e0a49e00065a11b3773f9f4d7098be2fed4da538a0a32abb74992a7869/68747470733a2f2f726973686176616e616e642e6769746875622e696f2f7374617469632f696d616765732f6772656574696e67732e676966" width="700"/>
 
-<h1> ¡Hello there! <img src="https://user-images.githubusercontent.com/90390639/160401796-1eb51cd8-157d-43ca-b5a1-295b9d7b0eec.png" width="50"/>   </h1>   
-
-<h3>Mi nombre es Constanza. Gracias por tomarse el tiempo para ver mi perfil de GitHub 😄 </h3>
+Mi nombre es Constanza. Gracias por tomarse el tiempo para ver mi perfil de GitHub 😄 
  
 <h2>A little more about me...</h2>
 
@@ -12,6 +11,10 @@
 - 🍎Mentalidad de principiante ( abierto al aprendizaje )
 
 <!--
+
+<h1> ¡Hello there! <img src="https://raw.githubusercontent.com/sciencepal/sciencepal/master/assets/Hi.gif" width="40"/>  </h1>   
+
+
 ### Hello there 👋
 
 **CMara14/CMara14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,22 +28,12 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - ⚡ Fun fact: ...
 
-
- 
-
-
-<img src="https://user-images.githubusercontent.com/90390639/160348369-e11fad86-fe9c-44bc-8139-ac1df38e0545.png" width="500"/>
 -->
+<img src="https://c.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif" width="300"/>
 
 <h2>🛠 Languages & Tools:</h2>
 
-![image](https://user-images.githubusercontent.com/90390639/160342967-b3a0cf26-538d-46eb-82b8-0dcde396bec6.png)
-![image](https://user-images.githubusercontent.com/90390639/160343052-08b8b60a-e58a-4123-8b7f-a9872a3b29f1.png)
-![image](https://user-images.githubusercontent.com/90390639/160343071-c1df8e00-a3e4-4ba3-afc1-d880d58a1a3d.png)
-![image](https://user-images.githubusercontent.com/90390639/160343093-c6166790-bcfa-4955-b1fb-be0e88c53842.png)
-![image](https://user-images.githubusercontent.com/90390639/160343113-bf5a12f7-0f8e-49ab-926c-90969b320000.png)
-![image](https://user-images.githubusercontent.com/90390639/160343138-8a659e9b-7d5c-4369-89cd-f234b8b97d5a.png)
-
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/> <img src="https://camo.githubusercontent.com/5fa137d222dde7b69acd22c6572a065ce3656e6ffa1f5e88c1b5c7a935af3cc6/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7673636f64652f7673636f64652d6f726967696e616c2e737667" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/logo-nodejs.svg" width="40"/> <img src="https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667" width="40"/> <img src="https://camo.githubusercontent.com/8b932cba9de56c2969c04499c818c1d87aca848f71b0d144ab754a46296b6200/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6a735f7765627061636b2f6a735f7765627061636b2d69636f6e2e737667" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"/> <img src="https://camo.githubusercontent.com/dc9e7e657b4cd5ba7d819d1a9ce61434bd0ddbb94287d7476b186bd783b62279/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769742f6769742d6f726967696e616c2e737667" width="40"/> 
 
 <h2>📧 Like to meet me?</h2>
 
