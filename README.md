@@ -3,7 +3,7 @@
 
  <p/>
  
- <h2> ¡Mi nombre es Constanza! A little more about me...</h2>
+ <h2> A little more about me...</h2>
 
 <img  align="right"  src="https://c.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif" width="300"/>
 
@@ -11,12 +11,13 @@
 
 - 🌱 Actualmente estoy aprendiendo typescript
 
-- 🍎Mentalidad de principiante ( abierto al aprendizaje )
+
 
 <!--
 
 <h1> ¡Hello there! <img src="https://raw.githubusercontent.com/sciencepal/sciencepal/master/assets/Hi.gif" width="40"/>  </h1>   
 
+- 🍎Mentalidad de principiante ( abierto al aprendizaje )
 
 ### Hello there 👋
 
