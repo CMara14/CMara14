@@ -12,9 +12,7 @@
 
 <img  align="right"  src="https://c.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif" width="300"/>
 
-- 👩‍💻 Me encuentro cursando el ultimo tramo del bootcamp -henry
-
-- 🌱 Actualmente estoy aprendiendo typescript
+- 👩‍💻 Actualmente estoy aprendiendo Typescript y Python
 
 - 💬 Háblame de JavaScript, React, Redux, HTML, CSS, Node JS, Express, PostgreSQL, OAuth, TypeScript, Sequelize
 
