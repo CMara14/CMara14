@@ -14,7 +14,7 @@
 
 - 👩‍💻 Actualmente estoy aprendiendo Typescript y Python
 
-- 💬 Háblame de JavaScript, React, Redux, HTML, CSS, Node JS, Express, PostgreSQL, OAuth, TypeScript, Sequelize
+- 💬 Háblame de JavaScript, React, Redux, HTML, CSS, Node JS, Express, PostgreSQL, TypeScript, Sequelize
 
 
 <!--
