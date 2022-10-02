@@ -12,9 +12,9 @@
 
 <img  align="right"  src="https://c.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif" width="300"/>
 
-- 👩‍💻 Actualmente estoy aprendiendo Typescript y Python
+- 👩‍💻 Actualmente estoy aprendiendo Typescript 
 
-- 💬 Háblame de JavaScript, React, Redux, HTML, CSS, Node JS, Express, PostgreSQL, TypeScript, Sequelize
+- 💬 Háblame de JavaScript, React, Redux, HTML, CSS, Node JS, Express, PostgreSQL, Sequelize
 
 
 <!--
