@@ -8,6 +8,8 @@
 
 <img  align="right"  src="https://c.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif" width="300"/>
 
+- Desarrolladora Full Stack apasionada por el Frontend, con más de un año de experiencia, motivada por la creación de aplicaciones web con interfaces de usuario intuitivas.
+  
 - 👩‍💻 Actualmente estoy aprendiendo Typescript 
 
 - 💬 Háblame de JavaScript, React, Redux, HTML, CSS, Node JS, Express, PostgreSQL, Sequelize
