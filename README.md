@@ -8,13 +8,8 @@
 
 <img  align="right"  src="https://c.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif" width="300"/>
 
-- Desarrolladora Full Stack apasionada por el Frontend, con más de un año de experiencia, motivada por la creación de aplicaciones web con interfaces de usuario intuitivas.
+- 👩‍💻 Desarrolladora Full Stack apasionada por el Frontend, con más de un año de experiencia, motivada por la creación de aplicaciones web con interfaces de usuario intuitivas.
   
-- 👩‍💻 Actualmente estoy aprendiendo Typescript 
-
-- 💬 Háblame de JavaScript, React, Redux, HTML, CSS, Node JS, Express, PostgreSQL, Sequelize
-
-
 <!--
 
 <h1> ¡Hello there! <img src="https://raw.githubusercontent.com/sciencepal/sciencepal/master/assets/Hi.gif" width="40"/>  </h1>   
@@ -43,13 +38,15 @@ Beginning my career as a Full Stack Developer looking for new experiences and a 
 
 
 <h2>🛠 Languages & Tools:</h2>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/> 
+
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/> 
+<img src="https://cdn.worldvectorlogo.com/logos/typescript-2.svg" width="40"/> 
+
+
+
 <img src="https://camo.githubusercontent.com/5fa137d222dde7b69acd22c6572a065ce3656e6ffa1f5e88c1b5c7a935af3cc6/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7673636f64652f7673636f64652d6f726967696e616c2e737667" width="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/> 
 <img src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/logo-nodejs.svg" width="40"/>
 <img src="https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667" width="40"/>
 <img src="https://camo.githubusercontent.com/8b932cba9de56c2969c04499c818c1d87aca848f71b0d144ab754a46296b6200/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6a735f7765627061636b2f6a735f7765627061636b2d69636f6e2e737667" width="40"/>
