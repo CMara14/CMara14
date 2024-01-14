@@ -1,14 +1,23 @@
 
- <h1 align="center" >   <i > 👩‍💻 Full-Stack Web Developer 🚀 from Argentina to 🌎</i>  </h1>
- 
+ <h1  align="center" > 👩‍💻 Full-Stack Web Developer 🚀 from Argentina to 🌎  </h1>
 
- 
- 
- <h2> A little more about me...</h2>
 
-<img  align="right"  src="https://c.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif" width="300"/>
-
-- 👩‍💻 Desarrolladora Full Stack apasionada por el Frontend, con más de un año de experiencia, motivada por la creación de aplicaciones web con interfaces de usuario intuitivas.
+```js
+- const aboutMe = {
+   pronouns: "she" || "her",
+   code: [JavaScript, TypeScript, HTML, CSS, Sass],
+   technologies: {
+      frontEnd: {
+         js: ["React", "Redux"],
+      },
+      backEnd: {
+         js: ["Node", "Express"],         
+      },
+      databases: ["Sequelize ", "SQL"]
+   },
+   currentOccupation: ["Frontend developer with more than a year of work experience"],
+};
+```
   
 <!--
 
@@ -17,8 +26,6 @@
 - 🍎Mentalidad de principiante ( abierto al aprendizaje )
 
 ### Hello there 👋
-
-**CMara14/CMara14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -29,21 +36,18 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - ⚡ Fun fact: ...
 
- <h2 align="center">   </br> Gracias por tomarse el tiempo para ver mi perfil de GitHub 😄    </h2>
- 
+ Beginning my career as a Full Stack Developer looking for new experiences and a lot of knowledge around the world.
 
-Beginning my career as a Full Stack Developer looking for new experiences and a lot of knowledge around the world.
-
+ <img align="center" src="https://pngimg.com/d/linkedIn_PNG15.png" alt="Bootstrap" width="40" height="40" />
+ 💻 [LinkedIn](https://www.linkedin.com/in/constanza-mara%C3%B1on/) 📬 [E-Mail](mailto:constanza.aymara@gmail.com)
 -->
 
+<img  align="right" src="https://c.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif" width="200"/>
 
-<h2>🛠 Languages & Tools:</h2>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/> 
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original-wordmark.svg" width="40"/> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="40"/> <img src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/logo-nodejs.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"/> 
-
+ 
 <h2> 💌 Do you want to know more about me? Contact me!</h2>
 
-- 💻 [LinkedIn](https://www.linkedin.com/in/constanza-mara%C3%B1on/)
+- 💻 [LinkedIn](https://www.linkedin.com/in/cam-developer/)
 
 - 📬 [E-Mail](mailto:constanza.aymara@gmail.com)
 
