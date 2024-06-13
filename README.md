@@ -7,12 +7,8 @@
    pronouns: "she" || "her",
    code: [JavaScript, TypeScript, HTML, CSS, Sass],
    technologies: {
-      frontEnd: {
-         js: ["React", "Redux"],
-      },
-      backEnd: {
-         js: ["Node", "Express"],         
-      },
+      frontEnd: ["React", "Redux"],
+      backEnd: ["Node", "Express"],   
       databases: ["Sequelize ", "SQL"]
    },
    currentOccupation: ["Frontend developer with more than a year of work experience"],
